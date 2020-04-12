@@ -1,0 +1,20 @@
+body {
+  background-color: salmon;
+  margin: 0;
+}
+
+div {
+  color: white;
+}
+
+.main {
+  color: blue;
+}
+
+#main {
+  color: yellow;
+}
+
+#dong {
+  color: saddlebrown;
+}
